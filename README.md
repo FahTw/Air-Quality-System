@@ -30,3 +30,9 @@
 3. นายเจตนิพัทธ์ ทานะมัย 66070032
 4. นายณัฐวุฒิ ฤกษ์สมจิต 66070067
 
+#Link
+https://www.youtube.com/watch?v=EFk9rBnu42c&feature=youtu.be
+https://fahtw.github.io/io/
+#Poster
+![Air_Quality](https://github.com/user-attachments/assets/cf3524d0-f193-4299-99e4-3c32b3f35844)
+
