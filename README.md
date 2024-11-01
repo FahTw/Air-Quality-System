@@ -7,7 +7,7 @@
 - BreadBoard
   ![breadboard](https://github.com/user-attachments/assets/37172a56-53f9-40a1-bc7a-f6e67067b785)
 - sensor วัดฝุ่น
-- ![เซนเซอร์วัดฝุ่น](https://github.com/user-attachments/assets/2165d868-3d2c-40c2-aa20-f4b51e46103c)
+  ![เซนเซอร์วัดฝุ่น](https://github.com/user-attachments/assets/2165d868-3d2c-40c2-aa20-f4b51e46103c)
 - LCD
   ![lcd](https://github.com/user-attachments/assets/6bd96958-ea46-4acb-af85-6f8ae8525dc1)
 
